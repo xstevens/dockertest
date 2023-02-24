@@ -20,6 +20,6 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.2.2
-	golang.org/x/net v0.0.0-20191003171128-d98b1b443823
-	golang.org/x/sys v0.0.0-20191005200804-aed5e4c7ecf9
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
 )
